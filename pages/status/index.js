@@ -46,7 +46,7 @@ function DatabaseStatus() {
         <div>Database Name: {databaseName}</div>
         <div>Database Version: {databaseVersion}</div>
         <div>Max Connections: {maxConnections}</div>
-        <div>Opened Connectios: {openedConnections}</div>
+        <div>Opened Connections: {openedConnections}</div>
       </>
     );
   }
